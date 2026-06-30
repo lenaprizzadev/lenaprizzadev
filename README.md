@@ -18,5 +18,4 @@ Sou apaixonada por tecnologia, resolução de problemas e por aprender coisas no
 *(Dica: Mantenha apenas as que você já usa ou está aprendendo na faculdade/estágio!)*
 
 - **Linguagens:** Java, Python, C, JavaScript
-- **Web/Frameworks:** HTML5, CSS3, React / Node.js
-- **Ferramentas & Bancos de Dados:** Git & GitHub, SQL
+- **Ferramentas & Bancos de Dados:** Git & GitHub, NoSQL
