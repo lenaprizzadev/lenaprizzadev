@@ -1,6 +1,6 @@
 # Olá, eu sou a Lena Prizza! 👋 (`lenaprizzadev`)
 
-Opa! Que bom te ver por aqui. Sou estudante de **Ciência da Computação na Universidade Presbiteriana Mackenzie** e atualmente trabalho como **Estagiária de Desenvolvimento** em uma empresa focada em criar soluções inteligentes e eficientes. 
+Sou estudante de **Ciência da Computação na Universidade Presbiteriana Mackenzie**, tenho 23 anos e atualmente trabalho como **Estagiária de Desenvolvimento** em uma empresa focada em criar soluções inteligentes e eficientes. 
 
 Sou apaixonada por tecnologia, resolução de problemas e por aprender coisas novas todos os dias.
 
